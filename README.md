@@ -51,7 +51,7 @@ https://github.com/Sumitraadhya/HR-Data-Insights/blob/main/Attendence%20Key.txt
 
 ## Overall Analysis View
 
-https://github.com/Sumitraadhya/HR-Data-Insights/blob/main/HR%20Analytics.png
+![Overall Report.gif](https://github.com/Sumitraadhya/HR-Data-Insights/blob/main/HR%20Analytics.png)
 
 
 you can find the full report file here : [Report](https://app.powerbi.com/groups/me/reports/08dfcde1-9ac6-48c2-af81-b4f56dc2d79a/5e2d6e711eea1d46567c?experience=power-bi)
